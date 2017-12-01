@@ -1,10 +1,10 @@
 # collapse
-## by Jae Chan Hwang:	hwangjc@umich.edu
-## 12/01/2017
+### by Jae Chan Hwang:	hwangjc@umich.edu
+### 12/01/2017
 
 ## Syntax:
 	
-	collapse [_Options_]... -i [_input file_] -o [_output file_]
+	collapse [Options]... -i [input file] -o [output file]
 
 ## Options:
 
