@@ -1,4 +1,4 @@
-# collapse
+# Collapse
 ### by Jae Chan Hwang:	hwangjc@umich.edu
 ### 12/01/2017
 
